@@ -115,5 +115,8 @@ public class Lab2
 		
 		System.out.println("The highest overal score is: " + overalHS);
 		System.out.println("The lowest overal score is: " + overalLS);
+		
+		
+		System.out.println("This is a test of the merging features.");
 	} //end main
 } //end class
